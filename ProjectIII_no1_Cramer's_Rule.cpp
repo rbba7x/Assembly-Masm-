@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//								Name: Ryan Beebe
-//								Project 3 No. 1 - Cramer's  Rule (System of Equations)
-//								Course: CMPS 371 - Assembly Language (MASM)
-//								Date: 1/09/2019
+//				Name: Ryan Beebe
+//				Project 3 No. 1 - Cramer's  Rule (System of Equations)
+//				Course: CMPS 371 - Assembly Language (MASM)
+//				Date: 1/09/2019
 //
 // Purpose: This program accepts values for a system of equations then solves
 //-------------------------------------------------------------------------------------
