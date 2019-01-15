@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//								Name: Ryan Beebe
-//								Project 2 No. 3 - Add digits of a number
-//								Course: CMPS 371 - Assembly Language (MASM)
-//								Date: 1/09/2019
+//				Name: Ryan Beebe
+//				Project 2 No. 3 - Add digits of a number
+//				Course: CMPS 371 - Assembly Language (MASM)
+//				Date: 1/09/2019
 //
 // Purpose: This program accepts a 3 digit number and adds the digits together   
 //-------------------------------------------------------------------------------------
