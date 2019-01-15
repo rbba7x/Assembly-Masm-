@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//								Name: Ryan Beebe
-//								Project 2 No. 5 - Trapezoid
-//								Course: CMPS 371 - Assembly Language (MASM)
-//								Date: 1/09/2019
+//				Name: Ryan Beebe
+//				Project 2 No. 5 - Trapezoid
+//				Course: CMPS 371 - Assembly Language (MASM)
+//				Date: 1/09/2019
 //
 // Purpose: This program accepts dimensions of a trapezoid then displays the perimeter 
 //          and the area of the trapezoid
