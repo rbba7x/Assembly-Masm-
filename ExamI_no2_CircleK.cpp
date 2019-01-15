@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//								Name: Ryan Beebe
-//								Exam 1 No. 2 - Circle K
-//								Course: CMPS 371 - Assembly Language (MASM)
-//								Date: 1/11/2019
+//				Name: Ryan Beebe
+//				Exam 1 No. 2 - Circle K
+//				Course: CMPS 371 - Assembly Language (MASM)
+//				Date: 1/11/2019
 //
 // Purpose: This program displays a menu and allows the user to select how many of each
 //			item then displays the total bill
