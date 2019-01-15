@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//								Name: Ryan Beebe
-//								Project 1 No. 6 - Rectangle and Triangle
-//								Course: CMPS 371 - Assembly Language (MASM)
-//								Date: 1/09/2019
+//				Name: Ryan Beebe
+//				Project 1 No. 6 - Rectangle and Triangle
+//				Course: CMPS 371 - Assembly Language (MASM)
+//				Date: 1/09/2019
 //
 // Purpose: This program accepts input for the dimensions of a rectangle and a triangle
 //          then displays the areas and perimeters of the shapes.
