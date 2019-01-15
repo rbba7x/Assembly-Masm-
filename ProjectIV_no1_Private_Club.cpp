@@ -1,7 +1,7 @@
 // ------------------------------------------------------------------------------------
 //				Name: Ryan Beebe
 //				Project 4 No. 1 - Membership
-//				Course: CMPS 371 – Assembly Language (MASM)
+//				Course: CMPS 371 â€“ Assembly Language (MASM)
 //				Date: 1/16/2019
 //
 // Purpose: This program display a menu with membership prices based on gender and age
@@ -15,11 +15,6 @@ using namespace std;
 string name;
 char gender;
 int age, total, ageGroup;
-
-void test()
-{
-	cout << "Tested here" << endl;
-}
 
 void displayTotal()
 {
