@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//								Name: Ryan Beebe
-//								Project 2 No. 4 - Fahrenheit to Celsius
-//								Course: CMPS 371 - Assembly Language (MASM)
-//								Date: 1/09/2019
+//				Name: Ryan Beebe
+//				Project 2 No. 4 - Fahrenheit to Celsius
+//				Course: CMPS 371 - Assembly Language (MASM)
+//				Date: 1/09/2019
 //
 // Purpose: This program accepts a temperature in Fahrenheit and converts it to Celsius
 //-------------------------------------------------------------------------------------
