@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Exam 1 No. 3 - Add digits of a 4 digit number
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/11/2019
+//				Name: Ryan Beebe
+//				Exam 1 No. 3 - Add digits of a 4 digit number
+//				Course: CMPS 371 - Assembly Language (MASM)
+//				Date: 1/11/2019
 //
 // Purpose: This program accepts a 4 digit number and adds the digits together   
 //-------------------------------------------------------------------------------------
