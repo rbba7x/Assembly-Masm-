@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//								Name: Ryan Beebe
-//								Exam 1 No. 1 - Cylinder
-//								Course: CMPS 371 - Assembly Language (MASM)
-//								Date: 1/11/2019
+//				Name: Ryan Beebe
+//				Exam 1 No. 1 - Cylinder
+//				Course: CMPS 371 - Assembly Language (MASM)
+//				Date: 1/11/2019
 //
 // Purpose: This program accepts the radius and height of a cylinder then calculates
 //			the volume and surface area
