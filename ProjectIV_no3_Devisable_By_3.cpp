@@ -1,12 +1,12 @@
 // ------------------------------------------------------------------------------------
-//				Name: Ryan Beebe
-//				Project 4 No. 3 - Devisable by 3
-//				Course: CMPS 371 – Assembly Language (MASM)
-//				Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 4 No. 3 - Devisable by 3
+//			Course: CMPS 371 â€“ Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program accepts input of a 3 digit integer and displays whether the
-//			number is devisable by 3 or not by adding the digits together and dividing
-//			by 3
+//	    number is devisable by 3 or not by adding the digits together and dividing
+//	    by 3
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
