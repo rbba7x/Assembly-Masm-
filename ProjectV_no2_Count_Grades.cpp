@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Project 5 No. 2 - Count Grades
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 5 No. 2 - Count Grades
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program accepts grades A, B, and C then displays how many of each were
-//		    entered
+//	    entered
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
