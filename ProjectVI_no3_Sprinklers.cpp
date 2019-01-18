@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Project 6 No. 3 - Sprinklers
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 6 No. 3 - Sprinklers
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program instantiates the Ax register and used it as a map of sprinklers.
-//			The active sprinklers are counted, and the defective sprinklers are identified
+//	    The active sprinklers are counted, and the defective sprinklers are identified
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
