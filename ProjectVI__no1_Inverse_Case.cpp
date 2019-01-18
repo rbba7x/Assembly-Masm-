@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//						Name: Ryan Beebe
-//						Project 6 No. 1 - Inverse Case
-//						Course: CMPS 371 - Assembly Language (MASM)
-//						Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 6 No. 1 - Inverse Case
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program accepts a sentence then switches the case of the letters
 //-------------------------------------------------------------------------------------
