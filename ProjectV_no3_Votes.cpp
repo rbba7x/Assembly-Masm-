@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Project 5 No. 3 - Count Votes
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 5 No. 3 - Count Votes
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program accepts a string of votes (y/n) then display how many of each
 //			represented as a number and as stars
