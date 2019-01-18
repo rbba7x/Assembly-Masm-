@@ -1,12 +1,12 @@
 // ------------------------------------------------------------------------------------
-//				Name: Ryan Beebe
-//				Project 4 No. 1 - Fitness Club
-//				Course: CMPS 371 – Assembly Language (MASM)
-//				Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 4 No. 1 - Fitness Club
+//			Course: CMPS 371 â€“ Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program display a menu with membership prices based on gender and age
-//			then displays the price of a membership based on user input. The user is 
-//			asked if they want to continue and can repeat the process.
+//	    then displays the price of a membership based on user input. The user is 
+//	    asked if they want to continue and can repeat the process.
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
