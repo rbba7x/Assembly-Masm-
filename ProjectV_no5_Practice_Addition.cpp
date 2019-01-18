@@ -1,11 +1,11 @@
 // --------------------------------------------------------------------------------------
-//				Name: Ryan Beebe
-//				Project 5 No. 5 - Practicing Addition
-//				Course: CMPS 371 – Assembly Language (MASM)
-//				Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 5 No. 5 - Practicing Addition
+//			Course: CMPS 371 â€“ Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program lets the user practice addition by generating 2 random integers
-//			and telling the user if their response is correct or not
+//	    and telling the user if their response is correct or not
 //---------------------------------------------------------------------------------------
 
 #include <iostream>
