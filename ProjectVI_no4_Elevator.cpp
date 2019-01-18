@@ -1,19 +1,19 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Project 6 No. 4 - Elevator
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 6 No. 4 - Elevator
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program generates 10 random integers and uses them as floors on an
-//			elevator which is displayed as a 16 bit binary number. The floors selected
-//			are displayed as integers in base 10.
+//	    elevator which is displayed as a 16 bit binary number. The floors selected
+//	    are displayed as integers in base 10.
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
 #include <ctime>
 using namespace std;
 
-short r, n, i = 1, newV, old[9], k = 0, temp1;
+short r, n, i = 1, newV, old[9], k = 0;
 
 void displayNbase2()
 {
