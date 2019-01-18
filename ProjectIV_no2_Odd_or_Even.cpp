@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
-//				Name: Ryan Beebe
-//				Project 4 No. 2 - Odd or Even
-//				Course: CMPS 371 – Assembly Language (MASM)
-//				Date: 1/16/2019
+//			Name: Ryan Beebe
+//			Project 4 No. 2 - Odd or Even
+//			Course: CMPS 371 â€“ Assembly Language (MASM)
+//			Date: 1/16/2019
 //
 // Purpose: This program accepts input of an integer and displays whether the number
-//			is even or odd
+//	    is even or odd
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
