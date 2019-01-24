@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Project 7 No. 1 - 1d Array
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/23/2019
+//			Name: Ryan Beebe
+//			Project 7 No. 1 - 1d Array
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/23/2019
 //
 // Purpose: This program declares and initializes an array. The values in the array
 //          are added, and the total is displayed along with the max and min values
