@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Project 7 No. 3 - 3d Array
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/23/2019
+//			Name: Ryan Beebe
+//			Project 7 No. 3 - 3d Array
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/23/2019
 //
 // Purpose: This program initializes a 3d array then displays the total along with 
 //          specified subsets.
