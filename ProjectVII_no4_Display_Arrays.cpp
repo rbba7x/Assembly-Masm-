@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Project 7 No. 4 - Display Arrays
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/23/2019
+//			Name: Ryan Beebe
+//			Project 7 No. 4 - Display Arrays
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/23/2019
 //
 // Purpose: This program generates 7 random integers and stores them into an array. 
 //          The array is displayed, sorted, then displayed again
