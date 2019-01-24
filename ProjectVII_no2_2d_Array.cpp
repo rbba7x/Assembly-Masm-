@@ -1,8 +1,8 @@
 // ------------------------------------------------------------------------------------
-//							Name: Ryan Beebe
-//							Project 7 No. 2 - 2d Array
-//							Course: CMPS 371 - Assembly Language (MASM)
-//							Date: 1/23/2019
+//			Name: Ryan Beebe
+//			Project 7 No. 2 - 2d Array
+//			Course: CMPS 371 - Assembly Language (MASM)
+//			Date: 1/23/2019
 //
 // Purpose: This program creates a 2d array to represent an inventory table of shirts.
 //          The shirts are totaled and subsets are displayed.
