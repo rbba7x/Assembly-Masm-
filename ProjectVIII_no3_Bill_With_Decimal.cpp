@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
-//				Name: Ryan Beebe
-//				Exam 8 No. 3 - Bill With Decimal
-//				Course: CMPS 371 – Assembly Language (MASM)
-//				Date: 1/29/2019
+//			Name: Ryan Beebe
+//			Exam 8 No. 3 - Bill With Decimal
+//			Course: CMPS 371 â€“ Assembly Language (MASM)
+//			Date: 1/29/2019
 //
 // Purpose: This program allows the user to specify a number of customers and each 
-//			customer makes a separate order.
+//	    customer makes a separate order.
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
