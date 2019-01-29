@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
 //				Name: Ryan Beebe
 //				Exam 2 No. 2 - PIN Number
-//				Course: CMPS 371 – Assembly Language (MASM)
+//				Course: CMPS 371 â€“ Assembly Language (MASM)
 //				Date: 1/17/2019
 //
 // Purpose: This program accepts a 3 digit PIN and tests if the total if the digits is
-//			devisable by 2. Not devisable by 2 is not accepted as a valid PIN
+//	    devisable by 2. Not devisable by 2 is not accepted as a valid PIN
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
