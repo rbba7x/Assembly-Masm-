@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
 //				Name: Ryan Beebe
 //				Exam 3 No. 3 - 3D Array
-//				Course: CMPS 371 – Assembly Language (MASM)
+//				Course: CMPS 371 â€“ Assembly Language (MASM)
 //				Date: 1/24/2019
 //
 // Purpose: This program initializes a 3d array and displays the total along with
-//			specified subsets
+//	    specified subsets
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
