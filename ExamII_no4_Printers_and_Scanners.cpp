@@ -1,12 +1,12 @@
 // ------------------------------------------------------------------------------------
 //				Name: Ryan Beebe
 //				Exam 2 No. 4 - Printers and Scanners
-//				Course: CMPS 371 – Assembly Language (MASM)
+//				Course: CMPS 371 â€“ Assembly Language (MASM)
 //				Date: 1/17/2019
 //
 // Purpose: This program displays how many scanners and printers are connected using
-//			a register as a map. Bits 8, 9, and 10 represent printers, bits 14, and 15
-//			represent scanners.
+//	    a register as a map. Bits 8, 9, and 10 represent printers, bits 14, and 15
+//	    represent scanners.
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
