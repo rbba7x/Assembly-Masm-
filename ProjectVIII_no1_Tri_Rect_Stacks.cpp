@@ -1,12 +1,12 @@
 // ------------------------------------------------------------------------------------
-//				Name: Ryan Beebe
-//				Exam 8 No. 1 - Triangle,Rectangle,Stack
-//				Course: CMPS 371 – Assembly Language (MASM)
-//				Date: 1/28/2019
+//			Name: Ryan Beebe
+//			Exam 8 No. 1 - Triangle,Rectangle,Stack
+//			Course: CMPS 371 â€“ Assembly Language (MASM)
+//			Date: 1/28/2019
 //
 // Purpose: This program asks for input for the dimensions of a triangle and rectangle
-//			then creates 2 threads to calculate the area and perimeter of each shape
-//			respectively. The areas and perimeters are displayed.
+//	    then creates 2 threads to calculate the area and perimeter of each shape
+//	    respectively. The areas and perimeters are displayed.
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
