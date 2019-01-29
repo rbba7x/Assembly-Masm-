@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
-//				Name: Ryan Beebe
-//				Exam 8 No. 2 - Quadratic Equation
-//				Course: CMPS 371 – Assembly Language (MASM)
-//				Date: 1/29/2019
+//			Name: Ryan Beebe
+//			Exam 8 No. 2 - Quadratic Equation
+//			Course: CMPS 371 â€“ Assembly Language (MASM)
+//			Date: 1/29/2019
 //
 // Purpose: This program asks for input for the variables of a quadratic equation. The
-//			roots are displayed.
+//	    roots are displayed.
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
