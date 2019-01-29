@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
-//				Name: Ryan Beebe
-//				Exam 3 No. 1 - Random Bits
-//				Course: CMPS 371 – Assembly Language (MASM)
-//				Date: 1/24/2019
+//			Name: Ryan Beebe
+//			Exam 3 No. 1 - Random Bits
+//			Course: CMPS 371 â€“ Assembly Language (MASM)
+//			Date: 1/24/2019
 //
 // Purpose: This program generates 10 random shorts then displays them using a byte
-//			as a map
+//	    as a map
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
