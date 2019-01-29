@@ -5,7 +5,7 @@
 //				Date: 1/17/2019
 //
 // Purpose: This program displays a menu and allows the user to enter how many customers
-//			and select how many items each customer wants
+//	    and select how many items each customer wants
 //-------------------------------------------------------------------------------------
 
 #include <iostream>
